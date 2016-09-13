@@ -6,4 +6,6 @@ Visualizing Billions of Points of Data from a webinar on Big Data visualization 
 This project requires **Python 2.7** and the following Python libraries installed:
 
 [iPython Notebook](http://ipython.org/notebook.html)
-
+[Bokeh](http://bokeh.pydata.org/en/latest/docs/installation.html)
+[Pandas](http://pandas.pydata.org/pandas-docs/stable/install.html)
+[Datashader](https://github.com/bokeh/datashader)
